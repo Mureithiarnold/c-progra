@@ -1,0 +1,30 @@
+/* area of circle*/
+#include <stdio.h>
+
+int  main()
+{
+int pi=3.142;
+int r=7;
+int area=(3.142*r*r);
+    printf("%d",area);
+return 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
